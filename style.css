@@ -1,0 +1,87 @@
+        /* this is sighup page */
+        body {
+            background: #fafafa;
+            font-family: 'Times New Roman', Times, serif,Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            background: #fff;
+            border: 1px solid #dbdbdb;
+            padding: 40px 40px 30px 40px;
+            border-radius: 8px;
+            width: 350px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+       
+        .logo {
+            margin-bottom: 30px;
+        }
+        .logo img {
+            width: 175px;
+        }
+        .input-group {
+            width: 100%;
+            margin-bottom: 10px;
+        }
+        .input-group input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #dbdbdb;
+            border-radius: 4px;
+            background: #fafafa;
+            font-size: 14px;
+        }
+        .sign-in-btn {
+            width: 100%;
+            padding: 10px;
+            background: #3897f0;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            font-weight: bold;
+            font-size: 14px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+        .sign-in-btn:hover{
+            cursor: pointer;
+            opacity: 0.5;
+            }
+
+        .sign-in-btn:active{
+            cursor: pointer;
+            opacity: 1;
+        }
+        .forgot {
+            margin-top: 15px;
+            font-size: 12px;
+        }
+        .forgot a {
+            color: #00376b;
+            text-decoration: none;
+        }
+        .signup {
+            margin-top: 20px;
+            font-size: 14px;
+        }
+        .signup a {
+            color: #3897f0;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+
+
+
+
+
+
+        /* this is signup page */
+
+      
