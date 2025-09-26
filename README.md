@@ -1,4 +1,5 @@
 # Instagram Clone
+Site link:https://arunucek.github.io/mytask/
 
 This is an educational project that recreates some of Instagram's UI features. This project is created for learning purposes only and is not affiliated with Instagram or Meta.
 
@@ -36,4 +37,5 @@ This is a study project created for educational purposes only. All content is pl
 - [Your Name]
 
 ## License
+
 This project is open source and available under the [MIT License](LICENSE).
