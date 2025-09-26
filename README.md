@@ -34,8 +34,9 @@ This is an educational project that recreates some of Instagram's UI features. T
 This is a study project created for educational purposes only. All content is placeholder content and the project is not intended for production use.
 
 ## Author
-- [Your Name]
+- Arunkumar
 
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
